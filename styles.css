@@ -50,7 +50,7 @@ Color Azul principal #00aeef
     height: 6rem;
     display: flex;
     justify-content: right;
-    
+    cursor: url("./assets/cursor.png"), auto;
   }
 
   
@@ -68,7 +68,7 @@ Color Azul principal #00aeef
   .menu-btn{
     font-size: 30px;
     color: white;
-    cursor: pointer;
+    cursor: url("../assets/cursor.png"), auto;
     margin-top: .6rem;
     margin-right: 2.6rem;
     margin-bottom: .6rem;
